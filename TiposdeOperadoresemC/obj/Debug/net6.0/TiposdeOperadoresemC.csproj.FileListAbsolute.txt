@@ -1,0 +1,15 @@
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\bin\Debug\net6.0\TiposdeOperadoresemC.exe
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\bin\Debug\net6.0\TiposdeOperadoresemC.deps.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\bin\Debug\net6.0\TiposdeOperadoresemC.runtimeconfig.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\bin\Debug\net6.0\TiposdeOperadoresemC.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\bin\Debug\net6.0\TiposdeOperadoresemC.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.AssemblyInfo.cs
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\refint\TiposdeOperadoresemC.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\TiposdeOperadoresemC.genruntimeconfig.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\TiposdeOperadoresemC#\TiposdeOperadoresemC\TiposdeOperadoresemC\obj\Debug\net6.0\ref\TiposdeOperadoresemC.dll
