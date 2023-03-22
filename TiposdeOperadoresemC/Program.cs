@@ -1,11 +1,10 @@
-﻿bool ehMaiorDeIdade = false;
-bool possuiAutorizacaoDoResponsavel = true;
+﻿bool possuiPresencaMinima = true;
+double media = 9;
 
-if (ehMaiorDeIdade || possuiAutorizacaoDoResponsavel)
+if (possuiPresencaMinima && media >= 7)
 {
-    Console.WriteLine("Entrada liberada!");
+    Console.WriteLine("Aprovado!");
 }
-else
-{
-    Console.WriteLine("Entrada não liberada");
+else{
+    Console.WriteLine("Reprovado!");
 }
