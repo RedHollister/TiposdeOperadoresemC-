@@ -1,10 +1,10 @@
-﻿bool possuiPresencaMinima = true;
-double media = 9;
+﻿bool choveu = true;
+bool estaTarde = true;
 
-if (possuiPresencaMinima && media >= 7)
+if (!choveu && !estaTarde)
 {
-    Console.WriteLine("Aprovado!");
+    Console.WriteLine("Vou pedalar");
 }
 else{
-    Console.WriteLine("Reprovado!");
+    Console.WriteLine("Vou pedalar um outro dia");
 }
